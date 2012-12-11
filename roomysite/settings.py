@@ -151,3 +151,7 @@ LOGGING = {
         },
     }
 }
+
+# Heroku Database
+# import dj_database_url
+# DATABASES['default'] = dj_database_url.config()
