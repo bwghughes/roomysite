@@ -1,0 +1,13 @@
+[
+  {
+    "pk": 1, 
+    "model": "devices.device", 
+    "fields": {
+      "registered_at": "2012-12-11T12:25:17Z", 
+      "active": true, 
+      "uuid": "54f8159c-c40f-4ae5-ae4d-88673454cbb1", 
+      "software_version": "0.1", 
+      "name": "Roomy 1"
+    }
+  }
+]
